@@ -1,7 +1,7 @@
 # WF-METHVANV2.1
 This is still being worked on expect bugs, please let me know anout said bugs
-# Patchnotes: 
-fixed animations, fixed notification bug, added quality, fixed fans
+# Patchnotes: v2.1
+fixed animations, fixed notification bug, added quality, fixed fans, added meth trays
 # items add these to qb-core\shared\items
     fans                     = { name = 'fans', label = 'fans', weight = 100, type = 'item', image = 'newsbmic.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Exaust fans?' },
     flasks                     = { name = 'flasks', label = 'flasks', weight = 100, type = 'item', image = 'newsbmic.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'flasks?' },
