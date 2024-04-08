@@ -1,6 +1,6 @@
 # WF-METHVANV2
 This is still being worked expect bugs, please let me know anout said bugs
-# items
+# items add these to qb-core\shared\items
     fans                     = { name = 'fans', label = 'fans', weight = 100, type = 'item', image = 'newsbmic.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Exaust fans?' },
     flasks                     = { name = 'flasks', label = 'flasks', weight = 100, type = 'item', image = 'newsbmic.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'flasks?' },
     lab                     = { name = 'lab', label = 'lab', weight = 100, type = 'item', image = 'acetone.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'lab?' },
